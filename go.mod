@@ -1,11 +1,4 @@
-module github.com/squishykid/weeoo
+<html>
 
-go 1.14
-
-this is not valid
-
-# hello
-
-function() {
-  hello_js();
-}
+<body>hello and welcome to my server</body>
+</html>
